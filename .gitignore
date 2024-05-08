@@ -1,0 +1,59 @@
+\documentclass{article}
+\usepackage[utf8]{inputenc}
+\usepackage{geometry}
+\geometry{
+ a4paper,
+ total={170mm,257mm},
+ left=20mm,
+ top=20mm,
+}
+\usepackage{enumitem}
+
+\title{Curriculum Vitae}
+\author{ABU FAYSAL}
+\date{}
+
+\begin{document}
+
+\maketitle
+
+\section*{Contact Information}
+\textbf{Email:} Faysalsky4@gmail.com \\
+\textbf{Phone:} +966553405788, +8801888736443 \\
+\textbf{Citizenship:} Bangladesh
+
+\section*{Education}
+\textbf{Bachelor of Computer Engineering} \\
+[Your University Name], [Your Location] \\
+Expected Graduation: [Month, Year] \\
+Completed 3 years of study
+
+\section*{Work Experience}
+\subsection*{YouTube Channel Manager (2019 - Present)}
+- Managed and grew YouTube channel to 100k subscribers within 3 years.
+- Created content on topics such as website to app conversion, AI website creation, website banner design, ads video editing, Google Ads advertising on YouTube, etc.
+
+\subsection*{Travel Agency Assistant (2018)}
+- Assisted in various tasks for 6 months.
+
+\subsection*{Freelance Work}
+- Website to app converter
+- AI website creation
+- Website banner design
+- Ads video editing
+- Google Ads advertising on YouTube
+- Top-up APK creation
+- Termux error fixing and setup
+- AI Gmail reply
+- YouTube content production
+- Online help line management
+- Website security using Termux
+- Website to PDF conversion
+- Website admin panel finding
+- Excel
+
+\section*{Skills}
+- Languages: Bengali, English, Hindi, Arabic
+- Proficient in website development, video editing, Google Ads, Termux, AI tools
+
+\end{document}
